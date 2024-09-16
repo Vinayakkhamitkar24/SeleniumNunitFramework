@@ -1,0 +1,16 @@
+{
+  "username": "abc",
+  "password": "Dummy@123",
+  "birthdate": "24-03-1997",
+  "emailId": "abc@gmail.com",
+  "gender": "Female",
+
+  "usernameD2": "pqr",
+  "passwordD2": "Dummy@123",
+  "birthdateD2": "25-03-1997",
+  "emailIdD2": "pqr@gmail.com",
+  "genderD2": "Female",
+
+  "country": "India",
+  "expectedProducts": [ "iphone X", "Nokia Edge" ]
+}
